@@ -1,0 +1,8 @@
+.recharts-legend-item-text {
+	color: black !important;
+	font-weight: bold;
+}
+
+.colorpick-eyedropper-input-trigger {
+	display: none;
+}

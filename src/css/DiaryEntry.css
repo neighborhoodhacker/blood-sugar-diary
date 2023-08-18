@@ -1,0 +1,8 @@
+.toggle {
+	transition-property: transform;
+	transition-duration: 500ms;
+}
+
+.dark-on-hover:hover {
+	color: black !important;
+}

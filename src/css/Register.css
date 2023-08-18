@@ -1,0 +1,10 @@
+#onUserError,
+#onPasswordError,
+#onEmailError {
+	color: red;
+	font-style: italic;
+}
+
+label[for=password] {
+	font-size: 12px;
+}
